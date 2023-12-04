@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-24 -25 1162 734' xmlns:xlink='http://www.w3.org/1999/xlink' width='1162.0px' font-size='12' font-family='Arial, LiberationSans' version='1.1' height='734.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='c1bee694-2dc3-4b6f-a85c-8e0713dd815e' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='77740ceb-43ae-403a-af12-45616b4e1c13' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='e28ca0ba-f6d8-42d8-9a78-ea465909dcbb' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1f12daec-6712-461d-9287-df2fc673be29' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f4da1720-2e45-48a9-acb9-60e0c056961a' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8385afd6-4d9e-46d5-b2e7-060a81c769bc' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='0208be5a-5e5a-41d5-a1f5-7d81d07b43a0' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='65673efd-be38-4a81-8916-c3f50e4ef197' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='6dce4065-0e60-49d0-a00a-44022c5ce5b2' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(200, 200, 200)'/>
+    </linearGradient>
+  </defs>
+  <desc>RdsDiagram</desc>
+  <g transform='translate(246.0,492.0)' id='_yJI5cHS4EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='160.0px' y='0.0' stroke-width='1.0' fill='url(#c1bee694-2dc3-4b6f-a85c-8e0713dd815e)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,187.0 160.0,187.0 160.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='80.0' y='16.0' fill='rgb(51, 51, 51)'>Clients</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_client: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>nom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='86.0'>cognom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='96.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='109.0'>adreça: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='119.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='132.0'>CP: INTEGER</text>
+    <image x='4.0' width='16.0' y='142.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='155.0'>provincia: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='165.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='178.0'>telefon: INTEGER</text>
+  </g>
+  <g transform='translate(451.0,148.0)' id='_3io4QHS5EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='180.0px' y='0.0' stroke-width='1.0' fill='url(#77740ceb-43ae-403a-af12-45616b4e1c13)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,233.0 180.0,233.0 180.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='90.0' y='16.0' fill='rgb(51, 51, 51)'>Comandes</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_comanda: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>data_hora: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='86.0'>domicili: BOOLEAN</text>
+    <image x='4.0' width='16.0' y='96.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='109.0'>qt_pizza: INTEGER</text>
+    <image x='4.0' width='16.0' y='119.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='132.0'>qt_burger: INTEGER</text>
+    <image x='4.0' width='16.0' y='142.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='155.0'>qt_beguda: INTEGER</text>
+    <image x='4.0' width='16.0' y='165.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='178.0'>preu: DECIMAL(3,2)</text>
+    <image x='4.0' width='16.0' y='188.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='201.0'>id_client: INTEGER</text>
+    <image x='4.0' width='16.0' y='211.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wEUFxYuFIDgzwAAAVZJREFUOMvVk79qwlAYxU9uApoMEi6dRLDgFFxalDxAXdpHKHRycGjBoQXBJygU6nhbCAlCh0KLo1vBwcVJcCroILqJIGrNzfUSYp/AP8WpZ/3gx+/A+ZTNZoNjQnBkjgZou46e5xFCyKNpmhez2ey1WCy6fzIIw7CczWYrhUIhn06nn2q12uXBAM/zSpZlPWcyGYzHYyQSCZpKpRrVavX6oAq6rl9ZlkV83welFFEUwbZtg3P+AuB9r4GU8nuxWEBKCSEEdF1HEASYTqfqTgPXdfOUUpZMJk/W6zUIISCEIAxDNJtN0e/3S1sB9Xr9Jh6P3+dyuXPOOaIoQqvV8oUQK0VRMBwO7xzHaWwFmKb5YNv22WQygaZp6HQ6vNvtlgF8GoYBxtjPzh2oqioBIBaLod1ur3q93q3jOG8HD2k0Gn0tl8vT+XweDAaDCmPsY98Slf//TL8XzInjVYwe5AAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='224.0'>Botiga_id_botiga: INTEGER</text>
+  </g>
+  <g transform='translate(11.0,5.0)' id='_01rGQHS6EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='193.0px' y='0.0' stroke-width='1.0' fill='url(#e28ca0ba-f6d8-42d8-9a78-ea465909dcbb)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,164.0 193.0,164.0 193.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='96.5' y='16.0' fill='rgb(51, 51, 51)'>Productes_pizza</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_pizza: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>nom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='86.0'>descripcio: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='96.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='109.0'>imatge: BLOB</text>
+    <image x='4.0' width='16.0' y='119.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='132.0'>preu: DECIMAL(2,2)</text>
+    <image x='4.0' width='16.0' y='142.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wEUFxYuFIDgzwAAAVZJREFUOMvVk79qwlAYxU9uApoMEi6dRLDgFFxalDxAXdpHKHRycGjBoQXBJygU6nhbCAlCh0KLo1vBwcVJcCroILqJIGrNzfUSYp/AP8WpZ/3gx+/A+ZTNZoNjQnBkjgZou46e5xFCyKNpmhez2ey1WCy6fzIIw7CczWYrhUIhn06nn2q12uXBAM/zSpZlPWcyGYzHYyQSCZpKpRrVavX6oAq6rl9ZlkV83welFFEUwbZtg3P+AuB9r4GU8nuxWEBKCSEEdF1HEASYTqfqTgPXdfOUUpZMJk/W6zUIISCEIAxDNJtN0e/3S1sB9Xr9Jh6P3+dyuXPOOaIoQqvV8oUQK0VRMBwO7xzHaWwFmKb5YNv22WQygaZp6HQ6vNvtlgF8GoYBxtjPzh2oqioBIBaLod1ur3q93q3jOG8HD2k0Gn0tl8vT+XweDAaDCmPsY98Slf//TL8XzInjVYwe5AAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='155.0'>Comandes_qt_pizza: INTEGER</text>
+  </g>
+  <g transform='translate(8.0,171.0)' id='_O3wvJXS7EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='200.0px' y='0.0' stroke-width='1.0' fill='url(#1f12daec-6712-461d-9287-df2fc673be29)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,164.0 200.0,164.0 200.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='100.0' y='16.0' fill='rgb(51, 51, 51)'>Productes_burger</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_burger: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>nom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='86.0'>descripcio: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='96.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='109.0'>imatge: BLOB</text>
+    <image x='4.0' width='16.0' y='119.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='132.0'>preu: DECIMAL(2,2)</text>
+    <image x='4.0' width='16.0' y='142.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wEUFxYuFIDgzwAAAVZJREFUOMvVk79qwlAYxU9uApoMEi6dRLDgFFxalDxAXdpHKHRycGjBoQXBJygU6nhbCAlCh0KLo1vBwcVJcCroILqJIGrNzfUSYp/AP8WpZ/3gx+/A+ZTNZoNjQnBkjgZou46e5xFCyKNpmhez2ey1WCy6fzIIw7CczWYrhUIhn06nn2q12uXBAM/zSpZlPWcyGYzHYyQSCZpKpRrVavX6oAq6rl9ZlkV83welFFEUwbZtg3P+AuB9r4GU8nuxWEBKCSEEdF1HEASYTqfqTgPXdfOUUpZMJk/W6zUIISCEIAxDNJtN0e/3S1sB9Xr9Jh6P3+dyuXPOOaIoQqvV8oUQK0VRMBwO7xzHaWwFmKb5YNv22WQygaZp6HQ6vNvtlgF8GoYBxtjPzh2oqioBIBaLod1ur3q93q3jOG8HD2k0Gn0tl8vT+XweDAaDCmPsY98Slf//TL8XzInjVYwe5AAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='155.0'>Comandes_qt_burger: INTEGER</text>
+  </g>
+  <g transform='translate(6.0,339.0)' id='_RdgpZnS7EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='205.0px' y='0.0' stroke-width='1.0' fill='url(#f4da1720-2e45-48a9-acb9-60e0c056961a)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,164.0 205.0,164.0 205.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='102.5' y='16.0' fill='rgb(51, 51, 51)'>Productes_beguda</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_beguda: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>nom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='86.0'>descripcio: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='96.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='109.0'>imatge: BLOB</text>
+    <image x='4.0' width='16.0' y='119.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='132.0'>preu: DECIMAL(2,2)</text>
+    <image x='4.0' width='16.0' y='142.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wEUFxYuFIDgzwAAAVZJREFUOMvVk79qwlAYxU9uApoMEi6dRLDgFFxalDxAXdpHKHRycGjBoQXBJygU6nhbCAlCh0KLo1vBwcVJcCroILqJIGrNzfUSYp/AP8WpZ/3gx+/A+ZTNZoNjQnBkjgZou46e5xFCyKNpmhez2ey1WCy6fzIIw7CczWYrhUIhn06nn2q12uXBAM/zSpZlPWcyGYzHYyQSCZpKpRrVavX6oAq6rl9ZlkV83welFFEUwbZtg3P+AuB9r4GU8nuxWEBKCSEEdF1HEASYTqfqTgPXdfOUUpZMJk/W6zUIISCEIAxDNJtN0e/3S1sB9Xr9Jh6P3+dyuXPOOaIoQqvV8oUQK0VRMBwO7xzHaWwFmKb5YNv22WQygaZp6HQ6vNvtlgF8GoYBxtjPzh2oqioBIBaLod1ur3q93q3jOG8HD2k0Gn0tl8vT+XweDAaDCmPsY98Slf//TL8XzInjVYwe5AAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='155.0'>Comandes_qt_beguda: INTEGER</text>
+  </g>
+  <g transform='translate(817.0,18.0)' id='_G17KMHS8EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='160.0px' y='0.0' stroke-width='1.0' fill='url(#8385afd6-4d9e-46d5-b2e7-060a81c769bc)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,160.0 160.0,160.0 160.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='80.0' y='16.0' fill='rgb(51, 51, 51)'>Botiga</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_botiga: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>adreça: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='86.0'>CP: BOOLEAN</text>
+    <image x='4.0' width='16.0' y='96.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='109.0'>localitat: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='119.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='132.0'>provincia: VARCHAR(50)</text>
+  </g>
+  <g transform='translate(817.0,198.0)' id='_He4noHS8EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='173.0px' y='0.0' stroke-width='1.0' fill='url(#0208be5a-5e5a-41d5-a1f5-7d81d07b43a0)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,187.0 173.0,187.0 173.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='86.5' y='16.0' fill='rgb(51, 51, 51)'>Treballador</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_treballador: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>nom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='86.0'>cognom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='96.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='109.0'>NIF: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='119.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='132.0'>telefon: INTEGER</text>
+    <image x='4.0' width='16.0' y='142.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='155.0'>posicio: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='165.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wEUFxYuFIDgzwAAAVZJREFUOMvVk79qwlAYxU9uApoMEi6dRLDgFFxalDxAXdpHKHRycGjBoQXBJygU6nhbCAlCh0KLo1vBwcVJcCroILqJIGrNzfUSYp/AP8WpZ/3gx+/A+ZTNZoNjQnBkjgZou46e5xFCyKNpmhez2ey1WCy6fzIIw7CczWYrhUIhn06nn2q12uXBAM/zSpZlPWcyGYzHYyQSCZpKpRrVavX6oAq6rl9ZlkV83welFFEUwbZtg3P+AuB9r4GU8nuxWEBKCSEEdF1HEASYTqfqTgPXdfOUUpZMJk/W6zUIISCEIAxDNJtN0e/3S1sB9Xr9Jh6P3+dyuXPOOaIoQqvV8oUQK0VRMBwO7xzHaWwFmKb5YNv22WQygaZp6HQ6vNvtlgF8GoYBxtjPzh2oqioBIBaLod1ur3q93q3jOG8HD2k0Gn0tl8vT+XweDAaDCmPsY98Slf//TL8XzInjVYwe5AAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='178.0'>Botiga_id_botiga: INTEGER</text>
+  </g>
+  <g transform='translate(817.0,393.0)' id='_IV0PoHS8EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='241.0px' y='0.0' stroke-width='1.0' fill='url(#65673efd-be38-4a81-8916-c3f50e4ef197)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,260.0 241.0,260.0 241.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='120.5' y='16.0' fill='rgb(51, 51, 51)'>Repartidor</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>Treballador_Botiga_id_botiga: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wEUFxYuFIDgzwAAAVZJREFUOMvVk79qwlAYxU9uApoMEi6dRLDgFFxalDxAXdpHKHRycGjBoQXBJygU6nhbCAlCh0KLo1vBwcVJcCroILqJIGrNzfUSYp/AP8WpZ/3gx+/A+ZTNZoNjQnBkjgZou46e5xFCyKNpmhez2ey1WCy6fzIIw7CczWYrhUIhn06nn2q12uXBAM/zSpZlPWcyGYzHYyQSCZpKpRrVavX6oAq6rl9ZlkV83welFFEUwbZtg3P+AuB9r4GU8nuxWEBKCSEEdF1HEASYTqfqTgPXdfOUUpZMJk/W6zUIISCEIAxDNJtN0e/3S1sB9Xr9Jh6P3+dyuXPOOaIoQqvV8oUQK0VRMBwO7xzHaWwFmKb5YNv22WQygaZp6HQ6vNvtlgF8GoYBxtjPzh2oqioBIBaLod1ur3q93q3jOG8HD2k0Gn0tl8vT+XweDAaDCmPsY98Slf//TL8XzInjVYwe5AAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='63.0'>Comandes_data_hora: VARCHAR(50)</text>
+  </g>
+  <g transform='translate(294.0,5.0)' id='_LnHoUHS8EDyNE6X8QNyb0w'>
+    <rect x='0.0' width='223.0px' y='0.0' stroke-width='1.0' fill='url(#6dce4065-0e60-49d0-a00a-44022c5ce5b2)' stroke='rgb(110, 110, 110)' look='allInOne' height='23.0px'/>
+    <polyline stroke-width='1.0' fill='rgb(255, 255, 255)' fill-opacity='1.0' stroke='rgb(110, 110, 110)' look='border' points='0.0,23.0 0.0,110.0 223.0,110.0 223.0,23.0'/>
+    <text font-weight='bold' text-anchor='middle' x='111.5' y='16.0' fill='rgb(51, 51, 51)'>Cat_pizza</text>
+    <image x='4.0' width='16.0' y='27.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFGSURBVDjLY/j//z8DJZhhcBtwa5ou062Zhp0PV7udvjVNO5lkA25M1Cx4czL//+/PJ/8/3xX+9myrqgfRBtycppf26mDs398fFv//cKXh/5vjdf/vLg74ui1PMZIoA+4utF7/893K/z+e1f3/8WLW/w8X6/5/e9Tw/+YM+w9EGXBrpknbl7ud/789yPr//VHx/2/34/9/uxX6/2y9xWe8BtycqmvycJXbqac7Au59uhn3/9ttv//f70b//3oDqLlB7/uiCAXcXrg1wyDm7jyrc98ezfz/9U7w/2833f6fmWD+5Xyz6YtLLWYvlscpBOMNxIerPc7/eLbw/6dLFv+/XXP/f3aK9deZ0cpJO4KleA/EyfISjMbH6zxO/nzZ9v/rTd//ZyZZfZ6bqBJLUkI62WvSenW+68vTvVYPlqarhg2DvEAMBgD1ZuZTUbWrEgAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='40.0'>id_cat: INTEGER</text>
+    <image x='4.0' width='16.0' y='50.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wIDDQEb3G+TKgAAATxJREFUOMvV079KA0EQBvBv727vzF5IQoKKoBbGzt5CsPEh9EFUkDyBrfgEdj6BpdjYWKgIAcGoCCbm1ITL/Ulus7u3FqKCiXilbjvf/BiGWeDfP/JTYe/4viIjXsgxZvheN7BpvrO1vph+z1njmjf3z8qOILvMddcs06TWZOm8HyfbAG4yAdXqXJna6YpDrQWDAGlKXbdAp7TWDUKI/hV49iVWZxlZms8jZxu4uAuNB29Adi5Hs2OBJB2CmgwlZsGhBixTQxKNOs8IRIJDqq9JpdLgQwHPH80a4wARSkil8EEoqaC5Rq6ZEYjiEEIIQL8TQipEQ47TdkYgjgWkTD8nEEJBJQLF14w78Lvt/tU1q3deesyZsOltK2g8PoVB7+Qg+yVu1I5mBsGAFSoVEichd4rTrcPasvp7n+kNv3CHpBFXDvYAAAAASUVORK5CYII=' height='16.0'/>
+    <text x='20.0' y='63.0'>nom: VARCHAR(50)</text>
+    <image x='4.0' width='16.0' y='73.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wEUFxYuFIDgzwAAAVZJREFUOMvVk79qwlAYxU9uApoMEi6dRLDgFFxalDxAXdpHKHRycGjBoQXBJygU6nhbCAlCh0KLo1vBwcVJcCroILqJIGrNzfUSYp/AP8WpZ/3gx+/A+ZTNZoNjQnBkjgZou46e5xFCyKNpmhez2ey1WCy6fzIIw7CczWYrhUIhn06nn2q12uXBAM/zSpZlPWcyGYzHYyQSCZpKpRrVavX6oAq6rl9ZlkV83welFFEUwbZtg3P+AuB9r4GU8nuxWEBKCSEEdF1HEASYTqfqTgPXdfOUUpZMJk/W6zUIISCEIAxDNJtN0e/3S1sB9Xr9Jh6P3+dyuXPOOaIoQqvV8oUQK0VRMBwO7xzHaWwFmKb5YNv22WQygaZp6HQ6vNvtlgF8GoYBxtjPzh2oqioBIBaLod1ur3q93q3jOG8HD2k0Gn0tl8vT+XweDAaDCmPsY98Slf//TL8XzInjVYwe5AAAAABJRU5ErkJggg==' height='16.0'/>
+    <text x='20.0' y='86.0'>Productes_pizza_id_pizza: INTEGER</text>
+  </g>
+  <g id='_pscvEHS6EDyNE6X8QNyb0w'>
+    <polyline id='_psekRHS6EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='406.0,527.0 428.0,527.0'/>
+    <g transform='translate(406.0,527.0) rotate(-90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_pscvEHS6EDyNE6X8QNyb0w'>
+    <polyline id='_psekRXS6EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='428.0,527.0 428.0,344.0'/>
+  </g>
+  <g id='_pscvEHS6EDyNE6X8QNyb0w'>
+    <polyline id='_psfLUHS6EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='428.0,344.0 451.0,344.0'/>
+    <g transform='translate(451.0,344.0) rotate(90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_gL8zwHS7EDyNE6X8QNyb0w'>
+    <polyline id='_gL-o9HS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='204.0,155.0 327.0,155.0'/>
+    <g transform='translate(204.0,155.0) rotate(-90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_gL8zwHS7EDyNE6X8QNyb0w'>
+    <polyline id='_gL_QAHS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='327.0,155.0 327.0,252.0'/>
+  </g>
+  <g id='_gL8zwHS7EDyNE6X8QNyb0w'>
+    <polyline id='_gL_QAXS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='327.0,252.0 451.0,252.0'/>
+    <g transform='translate(451.0,252.0) rotate(90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_kqbxQHS7EDyNE6X8QNyb0w'>
+    <polyline id='_kqdmdHS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='211.0,489.0 331.0,489.0'/>
+    <g transform='translate(211.0,489.0) rotate(-90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_kqbxQHS7EDyNE6X8QNyb0w'>
+    <polyline id='_kqeNgHS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='331.0,489.0 331.0,298.0'/>
+  </g>
+  <g id='_kqbxQHS7EDyNE6X8QNyb0w'>
+    <polyline id='_kqeNgXS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='331.0,298.0 451.0,298.0'/>
+    <g transform='translate(451.0,298.0) rotate(90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_nECF4HS7EDyNE6X8QNyb0w'>
+    <polyline id='_nEEiJHS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='208.0,321.0 329.0,321.0'/>
+    <g transform='translate(208.0,321.0) rotate(-90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_nECF4HS7EDyNE6X8QNyb0w'>
+    <polyline id='_nEEiJXS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='329.0,321.0 329.0,275.0'/>
+  </g>
+  <g id='_nECF4HS7EDyNE6X8QNyb0w'>
+    <polyline id='_nEEiJnS7EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='329.0,275.0 451.0,275.0'/>
+    <g transform='translate(451.0,275.0) rotate(90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_QordsHS8EDyNE6X8QNyb0w'>
+    <polyline id='_QouhAXS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='294.0,86.0 249.0,86.0'/>
+    <g transform='translate(294.0,86.0) rotate(90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_QordsHS8EDyNE6X8QNyb0w'>
+    <polyline id='_QouhAnS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='249.0,86.0 249.0,40.0'/>
+  </g>
+  <g id='_QordsHS8EDyNE6X8QNyb0w'>
+    <polyline id='_QouhA3S8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='249.0,40.0 204.0,40.0'/>
+    <g transform='translate(204.0,40.0) rotate(-90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_rF0D0HS8EDyNE6X8QNyb0w'>
+    <polyline id='_rF6xhHS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='631.0,367.0 724.0,367.0'/>
+    <g transform='translate(631.0,367.0) rotate(-90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_rF0D0HS8EDyNE6X8QNyb0w'>
+    <polyline id='_rF6xhXS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='724.0,367.0 724.0,53.0'/>
+  </g>
+  <g id='_rF0D0HS8EDyNE6X8QNyb0w'>
+    <polyline id='_rF6xhnS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='724.0,53.0 817.0,53.0'/>
+    <g transform='translate(817.0,53.0) rotate(90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='__hhTAHS8EDyNE6X8QNyb0w'>
+    <polyline id='__hjvQHS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='990.0,371.0 1040.0,371.0'/>
+    <g transform='translate(990.0,371.0) rotate(-90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='__hhTAHS8EDyNE6X8QNyb0w'>
+    <polyline id='__hjvQXS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='1040.0,371.0 1040.0,53.0'/>
+  </g>
+  <g id='__hhTAHS8EDyNE6X8QNyb0w'>
+    <polyline id='__hjvQnS8EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='1040.0,53.0 977.0,53.0'/>
+    <g transform='translate(977.0,53.0) rotate(-90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_DlOZAHS9EDyNE6X8QNyb0w'>
+    <polyline id='_DlQONHS9EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='1058.0,428.0 1108.0,428.0'/>
+    <g transform='translate(1058.0,428.0) rotate(-90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_DlOZAHS9EDyNE6X8QNyb0w'>
+    <polyline id='_DlQONXS9EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='1108.0,428.0 1108.0,371.0'/>
+  </g>
+  <g id='_DlOZAHS9EDyNE6X8QNyb0w'>
+    <polyline id='_DlQ1QHS9EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='1108.0,371.0 990.0,371.0'/>
+    <g transform='translate(990.0,371.0) rotate(-90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_HvMfEHS9EDyNE6X8QNyb0w'>
+    <polyline id='_HvQJdHS9EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='817.0,451.0 724.0,451.0'/>
+    <g transform='translate(817.0,451.0) rotate(90.0)'>
+      <circle r='4.0' cx='0.0' cy='14.0' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)'/>
+      <line y1='0.0' x1='6.0' y2='8.0' x2='0.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+      <line y1='8.0' x1='0.0' y2='0.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+  <g id='_HvMfEHS9EDyNE6X8QNyb0w'>
+    <polyline id='_HvQJdXS9EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='724.0,451.0 724.0,206.0'/>
+  </g>
+  <g id='_HvMfEHS9EDyNE6X8QNyb0w'>
+    <polyline id='_HvQJdnS9EDyNE6X8QNyb0w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='724.0,206.0 631.0,206.0'/>
+    <g transform='translate(631.0,206.0) rotate(-90.0)'>
+      <line y1='8.0' x1='6.0' y2='8.0' x2='-6.0' stroke-width='1.0' stroke='rgb(0, 0, 0)'/>
+    </g>
+  </g>
+</svg>
